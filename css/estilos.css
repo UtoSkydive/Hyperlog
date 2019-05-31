@@ -1,6 +1,14 @@
 body{
     text-align:center;
     font-family:arial;
-    color:pink;
+    color:black;
+    
 
+}
+.container{
+    width: 70%;
+    padding: 1em;
+    text-align:left;
+    border:2px solid black;
+    margin:0 auto;
 }
